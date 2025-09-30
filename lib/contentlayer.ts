@@ -94,3 +94,13 @@ export function getPostsByCollection(collection: string) {
 export function getMushroomCoffeePosts() {
   return publishedPosts.filter((post) => post.topic === "mushroom-coffee");
 }
+
+export function getAllTopics() {
+  return Array.from(
+    new Set(
+      publishedPosts
+        .map((post) => post.topic)
+        .filter((topic): topic is string => Boolean(topic))
+    )
+  ).sort((a, b) => a.localeCompare(b));
+}
