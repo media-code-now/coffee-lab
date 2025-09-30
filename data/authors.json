@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "noam-sadi",
+    "name": "Noam Sadi",
+    "title": "Founder, Mushroom Coffee Lab",
+    "bio": "Tests brewing rituals and sourcing standards for functional mushroom coffee brands.",
+    "avatar": "/media/authors/noam-sadi.jpg",
+    "links": {
+      "twitter": "https://twitter.com/noamsadi",
+      "linkedin": "https://www.linkedin.com/in/noamsadi/"
+    }
+  },
+  {
+    "slug": "jamie-lane",
+    "name": "Jamie Lane",
+    "title": "Clinical Research Contributor",
+    "bio": "Translates peer-reviewed adaptogen research into plain-language takeaways for daily rituals.",
+    "avatar": "/media/authors/jamie-lane.jpg",
+    "links": {
+      "twitter": "https://twitter.com/jamie-lane",
+      "website": "https://jamielane.ai"
+    }
+  }
+]

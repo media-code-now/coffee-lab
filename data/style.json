@@ -1,0 +1,14 @@
+{
+  "brandVoice": {
+    "tone": "authoritative but friendly",
+    "keywords": ["functional mushrooms", "daily rituals", "evidence-backed"]
+  },
+  "disclaimers": {
+    "general": "This content is for educational purposes and is not a substitute for professional medical advice.",
+    "supplement": "Statements regarding functional mushrooms have not been evaluated by the FDA. Consult a healthcare provider before beginning any new supplement routine."
+  },
+  "cta": {
+    "primary": "Get the Mushroom Coffee Guide",
+    "secondary": "Talk to a Functional Nutritionist"
+  }
+}

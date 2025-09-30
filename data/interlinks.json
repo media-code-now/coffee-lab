@@ -1,0 +1,31 @@
+{
+  "buyers-guides": [
+    {
+      "keyword": "best mushroom coffee",
+      "url": "/blog/best-mushroom-coffee",
+      "title": "Best Mushroom Coffee Brands"
+    }
+  ],
+  "how-to": [
+    {
+      "keyword": "brew mushroom coffee",
+      "url": "/blog/how-to-brew-mushroom-coffee"
+    }
+  ],
+  "ingredient-guides": [
+    {
+      "keyword": "lion's mane benefits",
+      "url": "/blog/lions-mane-benefits"
+    },
+    {
+      "keyword": "mushroom coffee benefits",
+      "url": "/blog/mushroom-coffee-benefits"
+    }
+  ],
+  "studies-explained": [
+    {
+      "keyword": "clinical study",
+      "url": "/blog/chaga-study"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "mushroom-coffee-lab",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "contentlayer build && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "postbuild": "node scripts/build-rss.js"
+  },
+  "dependencies": {
+    "next": "13.5.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "contentlayer": "0.3.4",
+    "next-contentlayer": "0.3.4",
+    "gray-matter": "4.0.3",
+    "zod": "3.22.4",
+    "remark-gfm": "3.0.1",
+    "rehype-slug": "5.1.0",
+    "rehype-autolink-headings": "6.1.1"
+  },
+  "devDependencies": {
+    "typescript": "5.3.3",
+    "@types/node": "20.11.5",
+    "@types/react": "18.2.45",
+    "@types/react-dom": "18.2.17",
+    "eslint": "8.56.0",
+    "eslint-config-next": "13.5.6",
+    "tsx": "4.6.2"
+  }
+}
