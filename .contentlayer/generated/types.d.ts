@@ -41,6 +41,7 @@ export type Post = {
   summary: string
   keywords?: string[] | undefined
   status: string
+  canonical?: string | undefined
   /** MDX file body */
   body: MDX
   slug: string
